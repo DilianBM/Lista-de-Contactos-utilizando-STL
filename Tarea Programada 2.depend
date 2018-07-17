@@ -1,0 +1,351 @@
+# depslib dependency file v1.0
+1507401447 source:c:\users\ultimate 7\desktop\tarea programada 2\main.cpp
+	<iostream>
+	<map>
+	<iterator>
+	"Contacto.h"
+	"Lista_Contactos.h"
+	<vector>
+	"Interfaz.h"
+
+1507400912 source:c:\users\ultimate 7\desktop\tarea programada 2\src\contacto.cpp
+	<iostream>
+	"Contacto.h"
+	<map>
+
+1507230781 c:\users\ultimate 7\desktop\tarea programada 2\include\contacto.h
+	<string>
+	<map>
+
+1506053200 c:\users\ultimate 7\desktop\tarea programada 2\include\numtelefono.h
+	<string>
+	<sstream>
+
+1506106026 source:c:\users\ultimate 7\desktop\tarea programada 2\src\listacontactos.cpp
+	"ListaContactos.h"
+
+1506105932 c:\users\ultimate 7\desktop\tarea programada 2\include\listacontactos.h
+	<map>
+	"Contacto.h"
+	"NumTelefono.h"
+
+1506053200 source:c:\users\ultimate 7\desktop\tarea programada 2\src\numtelefono.cpp
+	"NumTelefono.h"
+	<string>
+	<sstream>
+
+1506212771 c:\users\ultimate 7\desktop\tarea programada 2\include\telefonos.h
+	"NumTelefono.h"
+	<map>
+
+1506212771 source:c:\users\ultimate 7\desktop\tarea programada 2\src\telefonos.cpp
+	"Telefonos.h"
+	"NumTelefono.h"
+	<iostream>
+	<new>
+	<map>
+	<iterator>
+	<utility>
+
+1507400912 source:c:\users\ultimate 7\desktop\tarea programada 2\src\lista_contactos.cpp
+	"Lista_Contactos.h"
+	<vector>
+	<iostream>
+	<algorithm>
+	"Contacto.h"
+	<cstring>
+
+1507018986 c:\users\ultimate 7\desktop\tarea programada 2\include\lista_contactos.h
+	"Contacto.h"
+	<vector>
+
+1507401390 source:c:\users\ultimate 7\desktop\tarea programada 2\src\interfaz.cpp
+	"Interfaz.h"
+	<iostream>
+	<stdio.h>
+	<string.h>
+	"Contacto.h"
+	<cstdlib>
+	<cstring>
+
+1506731228 c:\users\ultimate 7\desktop\tarea programada 2\include\interfaz.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<Interfaz.h>
+	"Lista_Contactos.h"
+	<cstring>
+
+1506536959 source:c:\users\ultimate 7\desktop\nueva carpeta (2)\tarea programada 2\main.cpp
+	<iostream>
+	"NumTelefono.h"
+	<map>
+	<iterator>
+	"Contacto.h"
+	"Lista_Contactos.h"
+	<vector>
+	"Interfaz.h"
+
+1506389031 c:\users\ultimate 7\desktop\nueva carpeta (2)\tarea programada 2\include\telefonos.h
+	"NumTelefono.h"
+	<map>
+
+1506278228 c:\users\ultimate 7\desktop\nueva carpeta (2)\tarea programada 2\include\numtelefono.h
+	<string>
+	<sstream>
+
+1506536469 c:\users\ultimate 7\desktop\nueva carpeta (2)\tarea programada 2\include\contacto.h
+	"NumTelefono.h"
+	<string>
+	<map>
+
+1506537540 c:\users\ultimate 7\desktop\nueva carpeta (2)\tarea programada 2\include\lista_contactos.h
+	"Contacto.h"
+	<vector>
+
+1506278228 c:\users\ultimate 7\desktop\nueva carpeta (2)\tarea programada 2\include\interfaz.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<Interfaz.h>
+	"Lista_Contactos.h"
+	<cstring>
+
+1506537566 source:c:\users\ultimate 7\desktop\nueva carpeta (2)\tarea programada 2\src\interfaz.cpp
+	"Interfaz.h"
+	<iostream>
+	<stdio.h>
+	<string.h>
+	"Contacto.h"
+	"NumTelefono.h"
+	<cstdlib>
+	<cstring>
+
+1506536559 source:c:\users\ultimate 7\desktop\nueva carpeta (2)\tarea programada 2\src\lista_contactos.cpp
+	"Lista_Contactos.h"
+	<vector>
+	<iostream>
+	<algorithm>
+	"Contacto.h"
+
+1506278230 source:c:\users\ultimate 7\desktop\nueva carpeta (2)\tarea programada 2\src\numtelefono.cpp
+	"NumTelefono.h"
+	<string>
+	<sstream>
+
+1506388942 source:c:\users\ultimate 7\desktop\nueva carpeta (2)\tarea programada 2\src\telefonos.cpp
+	"Telefonos.h"
+	"NumTelefono.h"
+	<iostream>
+	<new>
+	<map>
+	<iterator>
+	<utility>
+
+1506537278 source:c:\users\ultimate 7\desktop\nueva carpeta (2)\tarea programada 2\src\contacto.cpp
+	<iostream>
+	"Contacto.h"
+
+1506744655 source:c:\users\ultimate 7\desktop\tp2\tarea programada 2\src\contacto.cpp
+	<iostream>
+	"Contacto.h"
+	<map>
+
+1506744698 c:\users\ultimate 7\desktop\tp2\tarea programada 2\include\contacto.h
+	<string>
+	<map>
+
+1506278228 c:\users\ultimate 7\desktop\tp2\tarea programada 2\include\numtelefono.h
+	<string>
+	<sstream>
+
+1506731838 source:c:\users\ultimate 7\desktop\tp2\tarea programada 2\src\interfaz.cpp
+	"Interfaz.h"
+	<iostream>
+	<stdio.h>
+	<string.h>
+	"Contacto.h"
+	<cstdlib>
+	<cstring>
+
+1506731226 c:\users\ultimate 7\desktop\tp2\tarea programada 2\include\interfaz.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<Interfaz.h>
+	"Lista_Contactos.h"
+	<cstring>
+
+1506731838 c:\users\ultimate 7\desktop\tp2\tarea programada 2\include\lista_contactos.h
+	"Contacto.h"
+	<vector>
+
+1506981472 source:c:\users\ultimate 7\desktop\tp2\tarea programada 2\src\lista_contactos.cpp
+	"Lista_Contactos.h"
+	<vector>
+	<iostream>
+	<algorithm>
+	"Contacto.h"
+	<cstring>
+
+1506278230 source:c:\users\ultimate 7\desktop\tp2\tarea programada 2\src\numtelefono.cpp
+	"NumTelefono.h"
+	<string>
+	<sstream>
+
+1506980168 source:c:\users\ultimate 7\desktop\tp2\tarea programada 2\main.cpp
+	<iostream>
+	<map>
+	<iterator>
+	"Contacto.h"
+	"Lista_Contactos.h"
+	<vector>
+	"Interfaz.h"
+
+1507018993 source:c:\users\joses\desktop\progra 2 javier\tarea programada 2\main.cpp
+	<iostream>
+	<map>
+	<iterator>
+	"Contacto.h"
+	"Lista_Contactos.h"
+	<vector>
+	"Interfaz.h"
+
+1506744698 c:\users\joses\desktop\progra 2 javier\tarea programada 2\include\contacto.h
+	<string>
+	<map>
+
+1507018985 c:\users\joses\desktop\progra 2 javier\tarea programada 2\include\lista_contactos.h
+	"Contacto.h"
+	<vector>
+
+1506731226 c:\users\joses\desktop\progra 2 javier\tarea programada 2\include\interfaz.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<Interfaz.h>
+	"Lista_Contactos.h"
+	<cstring>
+
+1507016971 source:c:\users\joses\desktop\progra 2 javier\tarea programada 2\src\contacto.cpp
+	<iostream>
+	"Contacto.h"
+	<map>
+
+1507019008 source:c:\users\joses\desktop\progra 2 javier\tarea programada 2\src\interfaz.cpp
+	"Interfaz.h"
+	<iostream>
+	<stdio.h>
+	<string.h>
+	"Contacto.h"
+	<cstdlib>
+	<cstring>
+
+1507018985 source:c:\users\joses\desktop\progra 2 javier\tarea programada 2\src\lista_contactos.cpp
+	"Lista_Contactos.h"
+	<vector>
+	<iostream>
+	<algorithm>
+	"Contacto.h"
+	<cstring>
+
+1507492892 source:c:\users\ultimate 7\desktop\tp2-b50800-b46912\main.cpp
+	<iostream>
+	<map>
+	<iterator>
+	"Contacto.h"
+	"Lista_Contactos.h"
+	<vector>
+	"Interfaz.h"
+
+1507493195 c:\users\ultimate 7\desktop\tp2-b50800-b46912\include\contacto.h
+	<string>
+	<map>
+
+1507018986 c:\users\ultimate 7\desktop\tp2-b50800-b46912\include\lista_contactos.h
+	"Contacto.h"
+	<vector>
+
+1506731228 c:\users\ultimate 7\desktop\tp2-b50800-b46912\include\interfaz.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<Interfaz.h>
+	"Lista_Contactos.h"
+	<cstring>
+
+1507401805 source:c:\users\ultimate 7\desktop\tp2-b50800-b46912\src\contacto.cpp
+	<iostream>
+	"Contacto.h"
+	<map>
+
+1507492627 source:c:\users\ultimate 7\desktop\tp2-b50800-b46912\src\interfaz.cpp
+	"Interfaz.h"
+	<iostream>
+	<stdio.h>
+	<string.h>
+	"Contacto.h"
+	<cstdlib>
+	<cstring>
+
+1507401805 source:c:\users\ultimate 7\desktop\tp2-b50800-b46912\src\lista_contactos.cpp
+	"Lista_Contactos.h"
+	<vector>
+	<iostream>
+	<algorithm>
+	"Contacto.h"
+	<cstring>
+
+1507492892 source:c:\users\ultimate 7\desktop\progra 2 javier\tp2-b50800-b46912\main.cpp
+	<iostream>
+	<map>
+	<iterator>
+	"Contacto.h"
+	"Lista_Contactos.h"
+	<vector>
+	"Interfaz.h"
+
+1507493195 c:\users\ultimate 7\desktop\progra 2 javier\tp2-b50800-b46912\include\contacto.h
+	<string>
+	<map>
+
+1507018986 c:\users\ultimate 7\desktop\progra 2 javier\tp2-b50800-b46912\include\lista_contactos.h
+	"Contacto.h"
+	<vector>
+
+1506731228 c:\users\ultimate 7\desktop\progra 2 javier\tp2-b50800-b46912\include\interfaz.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<Interfaz.h>
+	"Lista_Contactos.h"
+	<cstring>
+
+1507401805 source:c:\users\ultimate 7\desktop\progra 2 javier\tp2-b50800-b46912\src\contacto.cpp
+	<iostream>
+	"Contacto.h"
+	<map>
+
+1507492627 source:c:\users\ultimate 7\desktop\progra 2 javier\tp2-b50800-b46912\src\interfaz.cpp
+	"Interfaz.h"
+	<iostream>
+	<stdio.h>
+	<string.h>
+	"Contacto.h"
+	<cstdlib>
+	<cstring>
+
+1507401805 source:c:\users\ultimate 7\desktop\progra 2 javier\tp2-b50800-b46912\src\lista_contactos.cpp
+	"Lista_Contactos.h"
+	<vector>
+	<iostream>
+	<algorithm>
+	"Contacto.h"
+	<cstring>
+
